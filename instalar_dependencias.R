@@ -5,7 +5,7 @@
 # por isso é instalado a partir do arquivo do CRAN (precisa de compilador C).
 
 repos <- "https://cloud.r-project.org"
-pacotes <- c("dplyr", "tidyr", "ggplot2", "stringr", "foreign", "openxlsx", "httr")
+pacotes <- c("dplyr", "tidyr", "ggplot2", "stringr", "foreign", "openxlsx", "httr", "base64enc")
 faltam <- setdiff(pacotes, rownames(installed.packages()))
 if (length(faltam)) install.packages(faltam, repos = repos)
 

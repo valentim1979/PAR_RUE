@@ -84,3 +84,4 @@ Divergências internas do próprio PDF, achadas na transcrição:
 | Data | Alteração |
 |---|---|
 | 12/11/2026 | Versão inicial: SIM 2015–2025, SIH 2025, Quadros 2–5, Tabelas 3–15, Gráficos 1–4 e 8, conferência com o PAR. |
+| 12/11/2026 | Relatório HTML (`gerar_relatorio.R`) e prévia com os valores publicados no PAR. |

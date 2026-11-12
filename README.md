@@ -16,6 +16,7 @@ Rscript instalar_dependencias.R   # uma vez
 Rscript baixar_populacao.R        # população por município e sexo, 2015–2025 (Tabnet)
 Rscript baixar_datasus.R          # SIM 2015–2025 e SIH 2025 → ~/PAR_RUE_dados
 Rscript analise_par.R             # tabelas, gráficos e conferência
+Rscript gerar_relatorio.R         # relatório HTML (saidas/relatorio_par_noroeste_2025.html)
 ```
 
 `baixar_datasus.R` aceita `sim <ano_ini> <ano_fim>` ou `sih <ano>`.
@@ -42,6 +43,12 @@ da DO/AIH, endereço ou data de nascimento) e nunca imprime registros. As saída
 `saidas/` têm só contagens e taxas agregadas.
 
 ## Saídas
+
+- `saidas/relatorio_par_noroeste_2025.html` — relatório em um único arquivo HTML (abre sem
+  internet, pode ser impresso em PDF pelo navegador). Os textos são montados a partir dos
+  números: maior e menor taxa entre as RS, diferença em relação à macro, variação na série.
+- `saidas/previa_relatorio_valores_par.html` — prévia do mesmo relatório com os valores
+  publicados no PAR (`Rscript gerar_relatorio.R --previa-par`), para conferir o formato.
 
 - `saidas/tabelas/par_noroeste_2025.xlsx` — uma aba por quadro, tabela ou gráfico do PAR,
   mais as abas de conferência.

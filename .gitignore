@@ -1,0 +1,9 @@
+# microdados nunca entram no repositório (ficam em ~/PAR_RUE_dados e ~/PAR_RUE_entrada)
+*.dbc
+*.dbf
+*.DBF
+*.DBC
+*.rds
+.Rhistory
+.RData
+.Rproj.user/

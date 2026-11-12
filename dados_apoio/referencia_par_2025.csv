@@ -1,0 +1,509 @@
+tabela,indicador,recorte,ano,valor_par
+Quadro 2,obitos_cap_IX,Macro,2025,4133.0
+Quadro 2,taxa_cap_IX,Macro,2025,206.91
+Quadro 2,taxa_cap_IX,11ª RS,2025,223.88
+Quadro 2,taxa_cap_IX,12ª RS,2025,216.95
+Quadro 2,taxa_cap_IX,13ª RS,2025,231.84
+Quadro 2,taxa_cap_IX,14ª RS,2025,246.48
+Quadro 2,taxa_cap_IX,15ª RS,2025,180.54
+Quadro 2,obitos_cap_II,Macro,2025,2775.0
+Quadro 2,taxa_cap_II,Macro,2025,138.92
+Quadro 2,taxa_cap_II,11ª RS,2025,150.87
+Quadro 2,taxa_cap_II,12ª RS,2025,120.64
+Quadro 2,taxa_cap_II,13ª RS,2025,126.63
+Quadro 2,taxa_cap_II,14ª RS,2025,148.96
+Quadro 2,taxa_cap_II,15ª RS,2025,139.42
+Quadro 2,obitos_cap_X,Macro,2025,2084.0
+Quadro 2,taxa_cap_X,Macro,2025,104.33
+Quadro 2,taxa_cap_X,11ª RS,2025,109.94
+Quadro 2,taxa_cap_X,12ª RS,2025,125.31
+Quadro 2,taxa_cap_X,13ª RS,2025,91.35
+Quadro 2,taxa_cap_X,14ª RS,2025,130.03
+Quadro 2,taxa_cap_X,15ª RS,2025,89.61
+Quadro 2,obitos_cap_XX,Macro,2025,1587.0
+Quadro 2,taxa_cap_XX,Macro,2025,79.45
+Quadro 2,taxa_cap_XX,11ª RS,2025,88.18
+Quadro 2,taxa_cap_XX,12ª RS,2025,80.32
+Quadro 2,taxa_cap_XX,13ª RS,2025,85.68
+Quadro 2,taxa_cap_XX,14ª RS,2025,87.87
+Quadro 2,taxa_cap_XX,15ª RS,2025,72.13
+Quadro 2,obitos_cap_XI,Macro,2025,1090.0
+Quadro 2,taxa_cap_XI,Macro,2025,54.57
+Quadro 2,taxa_cap_XI,11ª RS,2025,64.99
+Quadro 2,taxa_cap_XI,12ª RS,2025,60.99
+Quadro 2,taxa_cap_XI,13ª RS,2025,67.41
+Quadro 2,taxa_cap_XI,14ª RS,2025,50.01
+Quadro 2,taxa_cap_XI,15ª RS,2025,47.61
+Quadro 2,obitos_cap_VI,Macro,2025,937.0
+Quadro 2,taxa_cap_VI,Macro,2025,46.91
+Quadro 2,taxa_cap_VI,11ª RS,2025,38.65
+Quadro 2,taxa_cap_VI,12ª RS,2025,49.66
+Quadro 2,taxa_cap_VI,13ª RS,2025,49.14
+Quadro 2,taxa_cap_VI,14ª RS,2025,36.79
+Quadro 2,taxa_cap_VI,15ª RS,2025,51.9
+Quadro 2,obitos_cap_IV,Macro,2025,904.0
+Quadro 2,taxa_cap_IV,Macro,2025,45.26
+Quadro 2,taxa_cap_IV,11ª RS,2025,40.94
+Quadro 2,taxa_cap_IV,12ª RS,2025,47.99
+Quadro 2,taxa_cap_IV,13ª RS,2025,62.37
+Quadro 2,taxa_cap_IV,14ª RS,2025,58.23
+Quadro 2,taxa_cap_IV,15ª RS,2025,39.03
+Quadro 2,obitos_cap_XIV,Macro,2025,597.0
+Quadro 2,taxa_cap_XIV,Macro,2025,29.89
+Quadro 2,taxa_cap_XIV,11ª RS,2025,32.64
+Quadro 2,taxa_cap_XIV,12ª RS,2025,34.99
+Quadro 2,taxa_cap_XIV,13ª RS,2025,18.9
+Quadro 2,taxa_cap_XIV,14ª RS,2025,23.58
+Quadro 2,taxa_cap_XIV,15ª RS,2025,31.01
+Quadro 2,obitos_cap_I,Macro,2025,430.0
+Quadro 2,taxa_cap_I,Macro,2025,21.53
+Quadro 2,taxa_cap_I,11ª RS,2025,19.75
+Quadro 2,taxa_cap_I,12ª RS,2025,27.99
+Quadro 2,taxa_cap_I,13ª RS,2025,22.05
+Quadro 2,taxa_cap_I,14ª RS,2025,22.5
+Quadro 2,taxa_cap_I,15ª RS,2025,19.68
+Quadro 2,obitos_cap_V,Macro,2025,303.0
+Quadro 2,taxa_cap_V,Macro,2025,15.17
+Quadro 2,taxa_cap_V,11ª RS,2025,17.46
+Quadro 2,taxa_cap_V,12ª RS,2025,17.0
+Quadro 2,taxa_cap_V,13ª RS,2025,15.12
+Quadro 2,taxa_cap_V,14ª RS,2025,22.86
+Quadro 2,taxa_cap_V,15ª RS,2025,11.33
+Quadro 2,obitos_cap_XVI,Macro,2025,281.0
+Quadro 2,taxa_cap_XVI,Macro,2025,14.07
+Quadro 2,taxa_cap_XVI,11ª RS,2025,14.31
+Quadro 2,taxa_cap_XVI,12ª RS,2025,18.66
+Quadro 2,taxa_cap_XVI,13ª RS,2025,18.9
+Quadro 2,taxa_cap_XVI,14ª RS,2025,11.07
+Quadro 2,taxa_cap_XVI,15ª RS,2025,12.53
+Quadro 2,obitos_cap_XVIII,Macro,2025,124.0
+Quadro 2,taxa_cap_XVIII,Macro,2025,6.21
+Quadro 2,taxa_cap_XVIII,11ª RS,2025,8.02
+Quadro 2,taxa_cap_XVIII,12ª RS,2025,10.33
+Quadro 2,taxa_cap_XVIII,13ª RS,2025,11.97
+Quadro 2,taxa_cap_XVIII,14ª RS,2025,9.29
+Quadro 2,taxa_cap_XVIII,15ª RS,2025,2.2
+Quadro 2,obitos_cap_XVII,Macro,2025,122.0
+Quadro 2,taxa_cap_XVII,Macro,2025,6.11
+Quadro 2,taxa_cap_XVII,11ª RS,2025,5.44
+Quadro 2,taxa_cap_XVII,12ª RS,2025,7.33
+Quadro 2,taxa_cap_XVII,13ª RS,2025,5.67
+Quadro 2,taxa_cap_XVII,14ª RS,2025,7.5
+Quadro 2,taxa_cap_XVII,15ª RS,2025,5.61
+Quadro 2,obitos_cap_XII,Macro,2025,102.0
+Quadro 2,taxa_cap_XII,Macro,2025,5.11
+Quadro 2,taxa_cap_XII,11ª RS,2025,7.16
+Quadro 2,taxa_cap_XII,12ª RS,2025,5.0
+Quadro 2,taxa_cap_XII,13ª RS,2025,3.15
+Quadro 2,taxa_cap_XII,14ª RS,2025,7.14
+Quadro 2,taxa_cap_XII,15ª RS,2025,4.07
+Quadro 2,obitos_cap_XIII,Macro,2025,92.0
+Quadro 2,taxa_cap_XIII,Macro,2025,4.61
+Quadro 2,taxa_cap_XIII,11ª RS,2025,4.87
+Quadro 2,taxa_cap_XIII,12ª RS,2025,2.67
+Quadro 2,taxa_cap_XIII,13ª RS,2025,3.78
+Quadro 2,taxa_cap_XIII,14ª RS,2025,4.29
+Quadro 2,taxa_cap_XIII,15ª RS,2025,5.39
+Quadro 2,obitos_cap_III,Macro,2025,54.0
+Quadro 2,taxa_cap_III,Macro,2025,2.7
+Quadro 2,taxa_cap_III,11ª RS,2025,2.58
+Quadro 2,taxa_cap_III,12ª RS,2025,4.67
+Quadro 2,taxa_cap_III,13ª RS,2025,4.41
+Quadro 2,taxa_cap_III,14ª RS,2025,2.5
+Quadro 2,taxa_cap_III,15ª RS,2025,1.87
+Quadro 2,obitos_cap_XV,Macro,2025,15.0
+Quadro 2,taxa_cap_XV,Macro,2025,0.75
+Quadro 2,taxa_cap_XV,11ª RS,2025,0.0
+Quadro 2,taxa_cap_XV,12ª RS,2025,1.0
+Quadro 2,taxa_cap_XV,13ª RS,2025,0.63
+Quadro 2,taxa_cap_XV,14ª RS,2025,1.07
+Quadro 2,taxa_cap_XV,15ª RS,2025,0.88
+Quadro 2,obitos_total,Macro,2025,15632
+Quadro 2,taxa_total,Macro,2025,782.57
+Tabela 3,obitos_cap_IX,Masculino,2025,2315.0
+Tabela 3,taxa_cap_IX,Masculino,2025,237.59
+Tabela 3,obitos_cap_IX,Feminino,2025,1818.0
+Tabela 3,taxa_cap_IX,Feminino,2025,177.69
+Tabela 3,obitos_cap_II,Masculino,2025,1534.0
+Tabela 3,taxa_cap_II,Masculino,2025,157.43
+Tabela 3,obitos_cap_II,Feminino,2025,1241.0
+Tabela 3,taxa_cap_II,Feminino,2025,121.29
+Tabela 3,obitos_cap_X,Masculino,2025,1063.0
+Tabela 3,taxa_cap_X,Masculino,2025,109.1
+Tabela 3,obitos_cap_X,Feminino,2025,1021.0
+Tabela 3,taxa_cap_X,Feminino,2025,99.79
+Tabela 3,obitos_cap_XX,Masculino,2025,1174.0
+Tabela 3,taxa_cap_XX,Masculino,2025,120.49
+Tabela 3,obitos_cap_XX,Feminino,2025,413.0
+Tabela 3,taxa_cap_XX,Feminino,2025,40.37
+Tabela 3,obitos_cap_XI,Masculino,2025,617.0
+Tabela 3,taxa_cap_XI,Masculino,2025,63.32
+Tabela 3,obitos_cap_XI,Feminino,2025,473.0
+Tabela 3,taxa_cap_XI,Feminino,2025,46.23
+Tabela 3,obitos_cap_VI,Masculino,2025,412.0
+Tabela 3,taxa_cap_VI,Masculino,2025,42.28
+Tabela 3,obitos_cap_VI,Feminino,2025,525.0
+Tabela 3,taxa_cap_VI,Feminino,2025,51.31
+Tabela 3,obitos_cap_IV,Masculino,2025,444.0
+Tabela 3,taxa_cap_IV,Masculino,2025,45.57
+Tabela 3,obitos_cap_IV,Feminino,2025,460.0
+Tabela 3,taxa_cap_IV,Feminino,2025,44.96
+Tabela 3,populacao,Masculino,2025,974376
+Tabela 3,populacao,Feminino,2025,1023151
+Quadro 3,populacao,Macro,2025,1997527
+Quadro 3,populacao,11ª RS,2025,349296
+Quadro 3,populacao,12ª RS,2025,300064
+Quadro 3,populacao,13ª RS,2025,158732
+Quadro 3,populacao,14ª RS,2025,279946
+Quadro 3,populacao,15ª RS,2025,909489
+Quadro 3,int_isquemicas_n,Macro,2025,4429.0
+Quadro 3,int_isquemicas_taxa,Macro,2025,22.17
+Quadro 3,int_iam_n,Macro,2025,1703.0
+Quadro 3,int_iam_taxa,Macro,2025,8.52
+Quadro 3,mort_iam_taxa,Macro,2025,41.8
+Quadro 3,int_isquemicas_n,11ª RS,2025,972.0
+Quadro 3,int_isquemicas_taxa,11ª RS,2025,27.83
+Quadro 3,int_iam_n,11ª RS,2025,338.0
+Quadro 3,int_iam_taxa,11ª RS,2025,9.68
+Quadro 3,mort_iam_taxa,11ª RS,2025,52.68
+Quadro 3,int_isquemicas_n,12ª RS,2025,613.0
+Quadro 3,int_isquemicas_taxa,12ª RS,2025,20.43
+Quadro 3,int_iam_n,12ª RS,2025,257.0
+Quadro 3,int_iam_taxa,12ª RS,2025,8.56
+Quadro 3,mort_iam_taxa,12ª RS,2025,48.66
+Quadro 3,int_isquemicas_n,13ª RS,2025,336.0
+Quadro 3,int_isquemicas_taxa,13ª RS,2025,21.17
+Quadro 3,int_iam_n,13ª RS,2025,79.0
+Quadro 3,int_iam_taxa,13ª RS,2025,4.98
+Quadro 3,mort_iam_taxa,13ª RS,2025,44.73
+Quadro 3,int_isquemicas_n,14ª RS,2025,778.0
+Quadro 3,int_isquemicas_taxa,14ª RS,2025,27.19
+Quadro 3,int_iam_n,14ª RS,2025,214.0
+Quadro 3,int_iam_taxa,14ª RS,2025,7.64
+Quadro 3,mort_iam_taxa,14ª RS,2025,53.94
+Quadro 3,int_isquemicas_n,15ª RS,2025,1730.0
+Quadro 3,int_isquemicas_taxa,15ª RS,2025,19.02
+Quadro 3,int_iam_n,15ª RS,2025,815.0
+Quadro 3,int_iam_taxa,15ª RS,2025,8.96
+Quadro 3,mort_iam_taxa,15ª RS,2025,31.12
+Quadro 4,int_avc_n,Macro,2025,2823.0
+Quadro 4,int_avc_taxa,Macro,2025,14.13
+Quadro 4,mort_avc_taxa,Macro,2025,32.08
+Quadro 4,int_avc_n,11ª RS,2025,416.0
+Quadro 4,int_avc_taxa,11ª RS,2025,11.91
+Quadro 4,mort_avc_taxa,11ª RS,2025,36.36
+Quadro 4,int_avc_n,12ª RS,2025,717.0
+Quadro 4,int_avc_taxa,12ª RS,2025,23.89
+Quadro 4,mort_avc_taxa,12ª RS,2025,28.44
+Quadro 4,int_avc_n,13ª RS,2025,232.0
+Quadro 4,int_avc_taxa,13ª RS,2025,14.62
+Quadro 4,mort_avc_taxa,13ª RS,2025,43.13
+Quadro 4,int_avc_n,14ª RS,2025,378.0
+Quadro 4,int_avc_taxa,14ª RS,2025,13.5
+Quadro 4,mort_avc_taxa,14ª RS,2025,48.64
+Quadro 4,int_avc_n,15ª RS,2025,1080.0
+Quadro 4,int_avc_taxa,15ª RS,2025,11.87
+Quadro 4,mort_avc_taxa,15ª RS,2025,25.66
+Tabela 4,mort_iam_taxa,Macro,2015,51.51
+Tabela 4,mort_iam_taxa,Macro,2016,50.91
+Tabela 4,mort_iam_taxa,Macro,2017,45.01
+Tabela 4,mort_iam_taxa,Macro,2018,48.06
+Tabela 4,mort_iam_taxa,Macro,2019,55.07
+Tabela 4,mort_iam_taxa,Macro,2020,49.81
+Tabela 4,mort_iam_taxa,Macro,2021,49.06
+Tabela 4,mort_iam_taxa,Macro,2022,46.26
+Tabela 4,mort_iam_taxa,Macro,2023,40.6
+Tabela 4,mort_iam_taxa,Macro,2024,39.7
+Tabela 4,mort_iam_taxa,Macro,2025,41.8
+Tabela 4,mort_iam_taxa,11ª RS,2015,75.58
+Tabela 4,mort_iam_taxa,11ª RS,2016,79.3
+Tabela 4,mort_iam_taxa,11ª RS,2017,59.26
+Tabela 4,mort_iam_taxa,11ª RS,2018,61.84
+Tabela 4,mort_iam_taxa,11ª RS,2019,83.02
+Tabela 4,mort_iam_taxa,11ª RS,2020,75.87
+Tabela 4,mort_iam_taxa,11ª RS,2021,64.42
+Tabela 4,mort_iam_taxa,11ª RS,2022,62.12
+Tabela 4,mort_iam_taxa,11ª RS,2023,47.24
+Tabela 4,mort_iam_taxa,11ª RS,2024,51.25
+Tabela 4,mort_iam_taxa,11ª RS,2025,52.68
+Tabela 4,mort_iam_taxa,12ª RS,2015,59.32
+Tabela 4,mort_iam_taxa,12ª RS,2016,55.65
+Tabela 4,mort_iam_taxa,12ª RS,2017,56.32
+Tabela 4,mort_iam_taxa,12ª RS,2018,60.65
+Tabela 4,mort_iam_taxa,12ª RS,2019,67.65
+Tabela 4,mort_iam_taxa,12ª RS,2020,64.65
+Tabela 4,mort_iam_taxa,12ª RS,2021,64.99
+Tabela 4,mort_iam_taxa,12ª RS,2022,60.65
+Tabela 4,mort_iam_taxa,12ª RS,2023,55.65
+Tabela 4,mort_iam_taxa,12ª RS,2024,47.99
+Tabela 4,mort_iam_taxa,12ª RS,2025,48.66
+Tabela 4,mort_iam_taxa,13ª RS,2015,54.18
+Tabela 4,mort_iam_taxa,13ª RS,2016,63.63
+Tabela 4,mort_iam_taxa,13ª RS,2017,45.36
+Tabela 4,mort_iam_taxa,13ª RS,2018,46.62
+Tabela 4,mort_iam_taxa,13ª RS,2019,63.63
+Tabela 4,mort_iam_taxa,13ª RS,2020,61.74
+Tabela 4,mort_iam_taxa,13ª RS,2021,62.37
+Tabela 4,mort_iam_taxa,13ª RS,2022,63.0
+Tabela 4,mort_iam_taxa,13ª RS,2023,42.21
+Tabela 4,mort_iam_taxa,13ª RS,2024,42.21
+Tabela 4,mort_iam_taxa,13ª RS,2025,44.73
+Tabela 4,mort_iam_taxa,14ª RS,2015,58.94
+Tabela 4,mort_iam_taxa,14ª RS,2016,58.23
+Tabela 4,mort_iam_taxa,14ª RS,2017,50.72
+Tabela 4,mort_iam_taxa,14ª RS,2018,55.01
+Tabela 4,mort_iam_taxa,14ª RS,2019,52.51
+Tabela 4,mort_iam_taxa,14ª RS,2020,51.8
+Tabela 4,mort_iam_taxa,14ª RS,2021,58.23
+Tabela 4,mort_iam_taxa,14ª RS,2022,47.15
+Tabela 4,mort_iam_taxa,14ª RS,2023,52.87
+Tabela 4,mort_iam_taxa,14ª RS,2024,59.3
+Tabela 4,mort_iam_taxa,14ª RS,2025,53.94
+Tabela 4,mort_iam_taxa,15ª RS,2015,36.94
+Tabela 4,mort_iam_taxa,15ª RS,2016,33.98
+Tabela 4,mort_iam_taxa,15ª RS,2017,33.98
+Tabela 4,mort_iam_taxa,15ª RS,2018,36.72
+Tabela 4,mort_iam_taxa,15ª RS,2019,39.47
+Tabela 4,mort_iam_taxa,15ª RS,2020,32.22
+Tabela 4,mort_iam_taxa,15ª RS,2021,32.77
+Tabela 4,mort_iam_taxa,15ª RS,2022,32.22
+Tabela 4,mort_iam_taxa,15ª RS,2023,29.03
+Tabela 4,mort_iam_taxa,15ª RS,2024,26.06
+Tabela 4,mort_iam_taxa,15ª RS,2025,31.12
+Tabela 5,mort_avc_taxa,11ª RS,2015,35.21
+Tabela 5,mort_avc_taxa,11ª RS,2016,35.5
+Tabela 5,mort_avc_taxa,11ª RS,2017,28.06
+Tabela 5,mort_avc_taxa,11ª RS,2018,29.2
+Tabela 5,mort_avc_taxa,11ª RS,2019,26.91
+Tabela 5,mort_avc_taxa,11ª RS,2020,40.65
+Tabela 5,mort_avc_taxa,11ª RS,2021,34.93
+Tabela 5,mort_avc_taxa,11ª RS,2022,38.36
+Tabela 5,mort_avc_taxa,11ª RS,2023,44.09
+Tabela 5,mort_avc_taxa,11ª RS,2024,40.37
+Tabela 5,mort_avc_taxa,11ª RS,2025,35.5
+Tabela 5,mort_avc_taxa,12ª RS,2015,39.66
+Tabela 5,mort_avc_taxa,12ª RS,2016,46.99
+Tabela 5,mort_avc_taxa,12ª RS,2017,32.66
+Tabela 5,mort_avc_taxa,12ª RS,2018,32.99
+Tabela 5,mort_avc_taxa,12ª RS,2019,37.99
+Tabela 5,mort_avc_taxa,12ª RS,2020,42.32
+Tabela 5,mort_avc_taxa,12ª RS,2021,29.66
+Tabela 5,mort_avc_taxa,12ª RS,2022,47.66
+Tabela 5,mort_avc_taxa,12ª RS,2023,37.66
+Tabela 5,mort_avc_taxa,12ª RS,2024,41.66
+Tabela 5,mort_avc_taxa,12ª RS,2025,32.33
+Tabela 5,mort_avc_taxa,13ª RS,2015,42.21
+Tabela 5,mort_avc_taxa,13ª RS,2016,35.28
+Tabela 5,mort_avc_taxa,13ª RS,2017,28.98
+Tabela 5,mort_avc_taxa,13ª RS,2018,25.83
+Tabela 5,mort_avc_taxa,13ª RS,2019,28.98
+Tabela 5,mort_avc_taxa,13ª RS,2020,26.46
+Tabela 5,mort_avc_taxa,13ª RS,2021,25.83
+Tabela 5,mort_avc_taxa,13ª RS,2022,28.35
+Tabela 5,mort_avc_taxa,13ª RS,2023,37.17
+Tabela 5,mort_avc_taxa,13ª RS,2024,37.17
+Tabela 5,mort_avc_taxa,13ª RS,2025,41.58
+Tabela 5,mort_avc_taxa,14ª RS,2015,37.51
+Tabela 5,mort_avc_taxa,14ª RS,2016,42.51
+Tabela 5,mort_avc_taxa,14ª RS,2017,33.94
+Tabela 5,mort_avc_taxa,14ª RS,2018,40.01
+Tabela 5,mort_avc_taxa,14ª RS,2019,43.22
+Tabela 5,mort_avc_taxa,14ª RS,2020,36.08
+Tabela 5,mort_avc_taxa,14ª RS,2021,33.94
+Tabela 5,mort_avc_taxa,14ª RS,2022,43.22
+Tabela 5,mort_avc_taxa,14ª RS,2023,33.94
+Tabela 5,mort_avc_taxa,14ª RS,2024,40.72
+Tabela 5,mort_avc_taxa,14ª RS,2025,38.58
+Tabela 5,mort_avc_taxa,15ª RS,2015,18.8
+Tabela 5,mort_avc_taxa,15ª RS,2016,17.59
+Tabela 5,mort_avc_taxa,15ª RS,2017,19.35
+Tabela 5,mort_avc_taxa,15ª RS,2018,20.45
+Tabela 5,mort_avc_taxa,15ª RS,2019,24.3
+Tabela 5,mort_avc_taxa,15ª RS,2020,27.6
+Tabela 5,mort_avc_taxa,15ª RS,2021,28.37
+Tabela 5,mort_avc_taxa,15ª RS,2022,28.81
+Tabela 5,mort_avc_taxa,15ª RS,2023,26.17
+Tabela 5,mort_avc_taxa,15ª RS,2024,28.59
+Tabela 5,mort_avc_taxa,15ª RS,2025,24.41
+Tabela 5,mort_avc_taxa,Macro,2015,29.29
+Tabela 5,mort_avc_taxa,Macro,2016,30.04
+Tabela 5,mort_avc_taxa,Macro,2017,25.68
+Tabela 5,mort_avc_taxa,Macro,2018,27.03
+Tabela 5,mort_avc_taxa,Macro,2019,29.84
+Tabela 5,mort_avc_taxa,Macro,2020,33.19
+Tabela 5,mort_avc_taxa,Macro,2021,30.29
+Tabela 5,mort_avc_taxa,Macro,2022,35.29
+Tabela 5,mort_avc_taxa,Macro,2023,32.99
+Tabela 5,mort_avc_taxa,Macro,2024,34.99
+Tabela 5,mort_avc_taxa,Macro,2025,30.89
+Tabela 6,obitos_C34,Macro,2025,323.0
+Tabela 6,taxa_C34,Macro,2025,16.17
+Tabela 6,obitos_C18,Macro,2025,223.0
+Tabela 6,taxa_C18,Macro,2025,11.16
+Tabela 6,obitos_C50,Macro,2025,199.0
+Tabela 6,taxa_C50,Macro,2025,9.96
+Tabela 6,obitos_C61,Macro,2025,186.0
+Tabela 6,taxa_C61,Macro,2025,9.31
+Tabela 6,obitos_C25,Macro,2025,180.0
+Tabela 6,taxa_C25,Macro,2025,9.01
+Tabela 6,obitos_C16,Macro,2025,128.0
+Tabela 6,taxa_C16,Macro,2025,6.41
+Tabela 6,obitos_C22,Macro,2025,113.0
+Tabela 6,taxa_C22,Macro,2025,5.66
+Tabela 6,obitos_C71,Macro,2025,110.0
+Tabela 6,taxa_C71,Macro,2025,5.51
+Tabela 6,obitos_C15,Macro,2025,98.0
+Tabela 6,taxa_C15,Macro,2025,4.91
+Tabela 6,obitos_C20,Macro,2025,97.0
+Tabela 6,taxa_C20,Macro,2025,4.86
+Tabela 6,obitos_C26,Macro,2025,70.0
+Tabela 6,taxa_C26,Macro,2025,3.5
+Tabela 6,obitos_C32,Macro,2025,63.0
+Tabela 6,taxa_C32,Macro,2025,3.15
+Tabela 6,obitos_C67,Macro,2025,60.0
+Tabela 6,taxa_C67,Macro,2025,3.0
+Tabela 6,obitos_C80,Macro,2025,59.0
+Tabela 6,taxa_C80,Macro,2025,2.95
+Tabela 7,obitos_C34_masc,11ª RS,2025,30
+Tabela 7,obitos_C34_fem,11ª RS,2025,25
+Tabela 7,obitos_C34_total,11ª RS,2025,55
+Tabela 7,obitos_C34_masc,12ª RS,2025,24
+Tabela 7,obitos_C34_fem,12ª RS,2025,26
+Tabela 7,obitos_C34_total,12ª RS,2025,50
+Tabela 7,obitos_C34_masc,13ª RS,2025,14
+Tabela 7,obitos_C34_fem,13ª RS,2025,6
+Tabela 7,obitos_C34_total,13ª RS,2025,20
+Tabela 7,obitos_C34_masc,14ª RS,2025,32
+Tabela 7,obitos_C34_fem,14ª RS,2025,31
+Tabela 7,obitos_C34_total,14ª RS,2025,63
+Tabela 7,obitos_C34_masc,15ª RS,2025,80
+Tabela 7,obitos_C34_fem,15ª RS,2025,56
+Tabela 7,obitos_C34_total,15ª RS,2025,136
+Tabela 7,obitos_C34_masc,Macro,2025,180
+Tabela 7,obitos_C34_fem,Macro,2025,144
+Tabela 7,obitos_C34_total,Macro,2025,324
+Tabela 9,obitos_J18,Macro,2025,928.0
+Tabela 9,taxa_J18,Macro,2025,46.46
+Tabela 9,obitos_J44,Macro,2025,557.0
+Tabela 9,taxa_J44,Macro,2025,27.88
+Tabela 9,obitos_J15,Macro,2025,154.0
+Tabela 9,taxa_J15,Macro,2025,7.71
+Tabela 9,obitos_J69,Macro,2025,100.0
+Tabela 9,taxa_J69,Macro,2025,5.01
+Tabela 9,obitos_J84,Macro,2025,61.0
+Tabela 9,taxa_J84,Macro,2025,3.05
+Tabela 9,obitos_J09,Macro,2025,55.0
+Tabela 9,taxa_J09,Macro,2025,2.75
+Tabela 9,obitos_J43,Macro,2025,52.0
+Tabela 9,taxa_J43,Macro,2025,2.6
+Tabela 9,obitos_J45,Macro,2025,34.0
+Tabela 9,taxa_J45,Macro,2025,1.7
+Tabela 9,obitos_J12,Macro,2025,19.0
+Tabela 9,taxa_J12,Macro,2025,0.95
+Tabela 10,mort_covid_taxa,11ª RS,2020,49.53
+Tabela 10,mort_covid_taxa,11ª RS,2021,253.65
+Tabela 10,mort_covid_taxa,11ª RS,2022,49.53
+Tabela 10,mort_covid_taxa,11ª RS,2023,4.29
+Tabela 10,mort_covid_taxa,11ª RS,2024,2.29
+Tabela 10,mort_covid_taxa,11ª RS,2025,1.72
+Tabela 10,mort_covid_taxa,12ª RS,2020,46.32
+Tabela 10,mort_covid_taxa,12ª RS,2021,210.29
+Tabela 10,mort_covid_taxa,12ª RS,2022,30.66
+Tabela 10,mort_covid_taxa,12ª RS,2023,4.67
+Tabela 10,mort_covid_taxa,12ª RS,2024,4.0
+Tabela 10,mort_covid_taxa,12ª RS,2025,2.67
+Tabela 10,mort_covid_taxa,13ª RS,2020,40.32
+Tabela 10,mort_covid_taxa,13ª RS,2021,180.81
+Tabela 10,mort_covid_taxa,13ª RS,2022,27.72
+Tabela 10,mort_covid_taxa,13ª RS,2023,10.08
+Tabela 10,mort_covid_taxa,13ª RS,2024,5.04
+Tabela 10,mort_covid_taxa,13ª RS,2025,0.63
+Tabela 10,mort_covid_taxa,14ª RS,2020,34.65
+Tabela 10,mort_covid_taxa,14ª RS,2021,235.05
+Tabela 10,mort_covid_taxa,14ª RS,2022,37.15
+Tabela 10,mort_covid_taxa,14ª RS,2023,5.36
+Tabela 10,mort_covid_taxa,14ª RS,2024,2.86
+Tabela 10,mort_covid_taxa,14ª RS,2025,2.5
+Tabela 10,mort_covid_taxa,15ª RS,2020,62.12
+Tabela 10,mort_covid_taxa,15ª RS,2021,277.3
+Tabela 10,mort_covid_taxa,15ª RS,2022,42.99
+Tabela 10,mort_covid_taxa,15ª RS,2023,8.03
+Tabela 10,mort_covid_taxa,15ª RS,2024,4.07
+Tabela 10,mort_covid_taxa,15ª RS,2025,2.53
+Tabela 10,mort_covid_taxa,Macro,2020,51.96
+Tabela 10,mort_covid_taxa,Macro,2021,249.51
+Tabela 10,mort_covid_taxa,Macro,2022,40.25
+Tabela 10,mort_covid_taxa,Macro,2023,6.7
+Tabela 10,mort_covid_taxa,Macro,2024,3.65
+Tabela 10,mort_covid_taxa,Macro,2025,2.25
+Quadro 5,obitos_cap_XX,Macro,2025,1581.0
+Quadro 5,taxa_cap_XX,Macro,2025,82.2
+Quadro 5,obitos_cap_XX,11ª RS,2025,309.0
+Quadro 5,taxa_cap_XX,11ª RS,2025,90.6
+Quadro 5,obitos_cap_XX,12ª RS,2025,234.0
+Quadro 5,taxa_cap_XX,12ª RS,2025,80.9
+Quadro 5,obitos_cap_XX,13ª RS,2025,134.0
+Quadro 5,taxa_cap_XX,13ª RS,2025,87.5
+Quadro 5,obitos_cap_XX,14ª RS,2025,244.0
+Quadro 5,taxa_cap_XX,14ª RS,2025,89.7
+Quadro 5,obitos_cap_XX,15ª RS,2025,657.0
+Quadro 5,taxa_cap_XX,15ª RS,2025,75.9
+Tabela 11,obitos_transporte,Macro,2015,544.0
+Tabela 11,obitos_transporte,Macro,2016,552.0
+Tabela 11,obitos_transporte,Macro,2017,502.0
+Tabela 11,obitos_transporte,Macro,2018,473.0
+Tabela 11,obitos_transporte,Macro,2019,511.0
+Tabela 11,obitos_transporte,Macro,2020,503.0
+Tabela 11,obitos_transporte,Macro,2021,489.0
+Tabela 11,obitos_transporte,Macro,2022,520.0
+Tabela 11,obitos_transporte,Macro,2023,557.0
+Tabela 11,obitos_transporte,Macro,2024,570.0
+Tabela 11,obitos_transporte,Macro,2025,527.0
+Tabela 12,obitos_transporte_trabalho,Macro,2015,23.0
+Tabela 12,obitos_transporte_trabalho,Macro,2016,38.0
+Tabela 12,obitos_transporte_trabalho,Macro,2017,29.0
+Tabela 12,obitos_transporte_trabalho,Macro,2018,31.0
+Tabela 12,obitos_transporte_trabalho,Macro,2019,38.0
+Tabela 12,obitos_transporte_trabalho,Macro,2020,18.0
+Tabela 12,obitos_transporte_trabalho,Macro,2021,35.0
+Tabela 12,obitos_transporte_trabalho,Macro,2022,31.0
+Tabela 12,obitos_transporte_trabalho,Macro,2023,48.0
+Tabela 12,obitos_transporte_trabalho,Macro,2024,53.0
+Tabela 12,obitos_transporte_trabalho,Macro,2025,45.0
+Tabela 13,obitos_quedas,Macro,2015,168.0
+Tabela 13,obitos_quedas,Macro,2016,232.0
+Tabela 13,obitos_quedas,Macro,2017,225.0
+Tabela 13,obitos_quedas,Macro,2018,268.0
+Tabela 13,obitos_quedas,Macro,2019,278.0
+Tabela 13,obitos_quedas,Macro,2020,245.0
+Tabela 13,obitos_quedas,Macro,2021,201.0
+Tabela 13,obitos_quedas,Macro,2022,289.0
+Tabela 13,obitos_quedas,Macro,2023,301.0
+Tabela 13,obitos_quedas,Macro,2024,338.0
+Tabela 13,obitos_quedas,Macro,2025,369.0
+Gráfico 1,taxa_cap_IX,Macro,2015,190.29
+Gráfico 1,taxa_cap_IX,Macro,2025,206.91
+Gráfico 1,taxa_cap_II,Macro,2015,110.29
+Gráfico 1,taxa_cap_II,Macro,2025,138.92
+Gráfico 1,taxa_cap_X,Macro,2015,68.18
+Gráfico 1,taxa_cap_X,Macro,2025,104.33
+Gráfico 1,taxa_cap_XX,Macro,2015,69.84
+Gráfico 1,taxa_cap_XX,Macro,2025,79.45
+Gráfico 1,taxa_cap_XI,Macro,2015,36.4
+Gráfico 1,taxa_cap_XI,Macro,2025,54.57
+Gráfico 2,mort_iam_taxa,Macro,2015,55.95
+Gráfico 2,mort_iam_taxa,Macro,2025,41.85
+Gráfico 2,mort_avc_taxa,Macro,2015,31.81
+Gráfico 2,mort_avc_taxa,Macro,2025,30.94
+Gráfico 2,mort_outras_cerebrovasc_taxa,Macro,2015,20.82
+Gráfico 2,mort_outras_cerebrovasc_taxa,Macro,2025,19.77
+Gráfico 2,mort_outras_isquemicas_taxa,Macro,2015,10.06
+Gráfico 2,mort_outras_isquemicas_taxa,Macro,2025,9.41
+Gráfico 8,taxa_transporte,Macro,2015,27.28
+Gráfico 8,taxa_transporte,Macro,2025,26.43
+Gráfico 8,taxa_quedas,Macro,2015,8.46
+Gráfico 8,taxa_quedas,Macro,2025,19.92
+Gráfico 8,taxa_agressoes,Macro,2015,18.87
+Gráfico 8,taxa_agressoes,Macro,2025,12.47
+Gráfico 8,taxa_autoprovocadas,Macro,2015,5.76
+Gráfico 8,taxa_autoprovocadas,Macro,2025,8.56
